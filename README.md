@@ -1,4 +1,4 @@
-metafor: A Meta-Analysis Package for R
+metafor: A Meta-Analysis Package for R 
 ======================================
 
 [![License: GPL (>=2)](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
